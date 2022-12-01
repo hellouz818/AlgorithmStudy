@@ -69,3 +69,6 @@
 
 ```
 
+PR : Add week1 problem
+
+Commit : 문제명, 혹은 유동적으로 본인이 문제에 따라 원하는 커밋명
