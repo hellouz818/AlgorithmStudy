@@ -29,9 +29,9 @@ for i in range(m):
                     if (0 <= x1 < m and 0 <= y1 < n):
                         if (area[x1][y1] == 0):
                             area[x1][y1] = 1
-                            ch += 1
+                            ch += 1 # 넓이
                             dq.append([x1, y1])
-            cnt.append(ch)
+            cnt.append(ch) # 분리된 영역의 넓이를 cnt 변수에 추가
 
 print(len(cnt))
 cnt.sort()
@@ -41,4 +41,10 @@ for i in cnt:
 '''
 메모리/시간(Python3)
 34144KB	76ms
+
+BFS로 4방향 탐색
+-> 범위 ?
+-> 방문 ?
+-> 넓이 추가
+-> 탐색 끝나면 넓이 담을 리스트에 추가 
 '''
