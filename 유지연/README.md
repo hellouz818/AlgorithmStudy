@@ -8,8 +8,7 @@
 - [1021_회전하는큐](https://www.acmicpc.net/problem/1021)
 
 2회차 문제 선정이유 : BFS, DFS 이해하기 
-- [2602_바이러스](https://www.acmicpc.net/problem/2602)
+- [1926_그림](https://www.acmicpc.net/problem/1926)
 - [2667_단지번호붙이기](https://www.acmicpc.net/problem/2667)
 - [1260_DFS와BFS](https://www.acmicpc.net/problem/1260)
-- [11725_트리의부모찾기](https://www.acmicpc.net/problem/11725)
-- [14940_쉬운최단거리](https://www.acmicpc.net/problem/14940)
+
