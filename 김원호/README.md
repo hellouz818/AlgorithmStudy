@@ -12,3 +12,8 @@
 - https://www.acmicpc.net/problem/4049
 - https://www.acmicpc.net/problem/5529
 - https://www.acmicpc.net/problem/14670
+
+3회차 문제 : 프로그래머스 억억단을 외우자, 행렬과 연산
+
+- [억억단을 외우자](https://school.programmers.co.kr/learn/courses/30/lessons/138475)
+- [행렬과 연산](https://school.programmers.co.kr/learn/courses/30/lessons/118670)
