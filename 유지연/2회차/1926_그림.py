@@ -18,7 +18,7 @@ def bfs(x, y):
         continue 
       if graph[nx][ny] == 1: # 방문 안했다면
         graph[nx][ny] = 0 # 방문 시킴
-        queue.append((nx, ny)) # 새로 넣음
+        queue.append([nx, ny]) # 새로 넣음
         count += 1
     
   return count
@@ -39,7 +39,7 @@ print(max(result) if result else 0)
   
 """
 Result :
-35000KB, 336ms
+35000KB, 336ms, Pypy3
 
 Memo :
 DFS 
@@ -54,5 +54,6 @@ root에서 인접한 노드를 방문하는 방식
 
 Question : 
 bfs는 재귀(함수 자체가 여러번 실행)는 아니고 처음 시작값을 넣어서 그 뒤로 옆에 칸 둘러보면서 안에 while문을 도는 방식인건지
+-> 콘솔 찍어보면서 봤는데 하나의 구역을 돌때 while문이 들어가는것. 그리고 다른 구역으로 이동할때는 밑에 for문으로 격자를 이동하고 방문하지 않은 곳이 있다면 그 노드를 다시 bfs에 넣어서 너비탐색으로 넓이등을 탐색 하는것. 그래서 큐에는 각 시작점이 들어가고 (방문하지 않은 시작점 임시로 보관하는 역할) 그곳으로부터 탐색 시작
 """
 
