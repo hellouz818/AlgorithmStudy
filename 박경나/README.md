@@ -9,3 +9,8 @@
 - https://www.acmicpc.net/problem/1753<br/>
 - https://www.acmicpc.net/problem/2661
 <br/>
+4회차 문제 : 백준 11726, 백준 11727, 백준 2193
+4회차 문제 선정이유 : DP 공부
+- https://www.acmicpc.net/problem/11726
+- https://www.acmicpc.net/problem/11727
+- https://www.acmicpc.net/problem/2193
