@@ -7,8 +7,11 @@
 - [10866_덱](https://www.acmicpc.net/problem/10866)
 - [1021_회전하는큐](https://www.acmicpc.net/problem/1021)
 
-2회차 문제 선정이유 : BFS, DFS 이해하기 
+2회차 문제 선정이유 : BFS, DFS 이해하기 (BFS 위주)
 - [1926_그림](https://www.acmicpc.net/problem/1926)
 - [2667_단지번호붙이기](https://www.acmicpc.net/problem/2667)
 - [1260_DFS와BFS](https://www.acmicpc.net/problem/1260)
 
+4회사 문제 선정이유 : BFS, DFS 이해하기 (DFS 위주)
+- [1012_유기농배추](https://www.acmicpc.net/problem/1012)
+- [2023_신기한소수](https://www.acmicpc.net/problem/2023)
