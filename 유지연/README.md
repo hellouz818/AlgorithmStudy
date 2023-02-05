@@ -12,6 +12,11 @@
 - [2667_단지번호붙이기](https://www.acmicpc.net/problem/2667)
 - [1260_DFS와BFS](https://www.acmicpc.net/problem/1260)
 
-4회사 문제 선정이유 : BFS, DFS 이해하기 (DFS 위주)
+4회차 문제 선정이유 : BFS, DFS 이해하기 (DFS 위주)
 - [1012_유기농배추](https://www.acmicpc.net/problem/1012)
 - [2023_신기한소수](https://www.acmicpc.net/problem/2023)
+
+5회차 문제 선정이유 : dp 이해하기
+- [10870_피보나치수5](https://www.acmicpc.net/problem/10870)
+- [2748_피보나치수2](https://www.acmicpc.net/problem/2748)
+.. 더 풀 예정
