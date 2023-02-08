@@ -19,4 +19,8 @@
 5회차 문제 선정이유 : dp 이해하기
 - [10870_피보나치수5](https://www.acmicpc.net/problem/10870)
 - [2748_피보나치수2](https://www.acmicpc.net/problem/2748)
-.. 더 풀 예정
+- [1로만들기](https://www.acmicpc.net/problem/1463)
+- [1,2,3더하기](https://www.acmicpc.net/problem/9095)
+
+6회차 문제
+dp에서 타일 + 계단 문제 풀고 싶음
