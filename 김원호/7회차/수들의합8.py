@@ -1,3 +1,10 @@
+"""
+Ci = Ai - Bi 인 C 배열을 생각해보면
+Ci ~ Cj 의 합이 0이면
+Ai ~ Aj 의 합과 Bi ~ Bj의 합이 같다는 얘기에요
+그래서 Ci ~ Cj 의 합이 0 이 나오는 구간이 몇개인지를 풀면 되는 문젠데,
+이거는 6회차에서 수열의 구간 평균 문제랑 결국 같아져요
+"""
 N = int(input())
 A = [int(x) for x in input().split()]
 B = [int(x) for x in input().split()]

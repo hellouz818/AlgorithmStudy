@@ -1,3 +1,7 @@
+"""
+union find 문제인데, 별거 없었던거 같네요
+혹시 union find 설명 필요하면 얘기해주세요
+"""
 import sys
 
 sys.setrecursionlimit(10 ** 6)
