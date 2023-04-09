@@ -35,8 +35,13 @@
 - [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)
 - [19566 수열의 구간 평균](https://www.acmicpc.net/problem/19566)
 
-7회차 문제 : 백준 15809
+7회차 문제 : 백준 15809, 17299, 25332
 
 - [전국 시대](https://www.acmicpc.net/problem/15809)
 - [오등큰수](https://www.acmicpc.net/problem/17299)
 - [수들의 합 8](https://www.acmicpc.net/problem/25332)
+
+8회차 문제 : 백준 14411, 12893
+
+- [합집합](https://www.acmicpc.net/problem/14411)
+- [적의 적](https://www.acmicpc.net/problem/12893)
