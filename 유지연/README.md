@@ -22,9 +22,17 @@
 - [1463_1로만들기](https://www.acmicpc.net/problem/1463)
 - [9095_1,2,3더하기](https://www.acmicpc.net/problem/9095)
 
-6회차 문제 선정이유 : dp 이해하기 + 조금 불성실하게 풀었음 ㅠ
+6회차 문제 선정이유 : dp 이해하기 + 조금 불성실하게 풀었음 ㅠ dp에서 타일 + 계단 문제 풀고 싶음
 - [17212_피보나치수5](https://www.acmicpc.net/problem/17212)
 - [11726_2xN타일링](https://www.acmicpc.net/problem/11726)
 - [11727_2xN타일링2](https://www.acmicpc.net/problem/11727)
 
-dp에서 타일 + 계단 문제 풀고 싶음
+
+7회차 문제 선정이유 : 이진탐색
+- [1789_수들의합](https://www.acmicpc.net/problem/1789)
+
+
+8회차 문제 선정이유 : 이진탐색
+- [10815_숫자카드](https://www.acmicpc.net/problem/10815)
+- [1654_랜선자르기](https://www.acmicpc.net/problem/1654)
+- [3079_입국심사](https://www.acmicpc.net/problem/3079)
