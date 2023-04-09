@@ -34,3 +34,11 @@
 5회차 문제 선정이유 : DP 문제를 좀 더 풀어보기!
 - https://www.acmicpc.net/problem/1149
 - https://www.acmicpc.net/problem/1309
+
+
+8회차 문제 : 프로그래머스, 백준 11650
+
+
+8회차 문제 선정 이유 : 예전에 못풀었던 문제 도전!
+- https://school.programmers.co.kr/learn/courses/30/lessons/118667?language=python3
+- https://www.acmicpc.net/problem/11650
