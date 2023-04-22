@@ -41,7 +41,14 @@
 - [오등큰수](https://www.acmicpc.net/problem/17299)
 - [수들의 합 8](https://www.acmicpc.net/problem/25332)
 
-8회차 문제 : 백준 14411, 12893
+8회차 문제 : 백준 14411, 12893, 17162
 
 - [합집합](https://www.acmicpc.net/problem/14411)
 - [적의 적](https://www.acmicpc.net/problem/12893)
+- [가희의 수열놀이](https://www.acmicpc.net/problem/17162)
+
+9회차 문제 : 백준 1043, 2295, 1976
+
+- [거짓말](https://www.acmicpc.net/problem/1043)
+- [세 수의 합](https://www.acmicpc.net/problem/2295)
+- [여행 가자](https://www.acmicpc.net/problem/1976)
