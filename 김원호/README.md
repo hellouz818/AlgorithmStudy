@@ -52,3 +52,8 @@
 - [거짓말](https://www.acmicpc.net/problem/1043)
 - [세 수의 합](https://www.acmicpc.net/problem/2295)
 - [여행 가자](https://www.acmicpc.net/problem/1976)
+
+10회차 문제 : 백준 2143, 2109
+
+- [두 배열의 합](https://www.acmicpc.net/problem/2143)
+- [순회강연](https://www.acmicpc.net/problem/2109)
