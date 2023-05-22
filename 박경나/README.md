@@ -50,7 +50,6 @@
 9회차 문제 선정 이유 : 문자열 메소드 적용 + 투포인터 문제 연습!
 - https://school.programmers.co.kr/learn/courses/30/lessons/42885
 - https://school.programmers.co.kr/learn/courses/30/lessons/12951
-9회차 문제 : 프로그래머스
 
 
 10회차 문제 선정 이유 : 구현 문제 연습
