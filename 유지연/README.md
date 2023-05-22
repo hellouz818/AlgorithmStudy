@@ -36,3 +36,13 @@
 - [10815_숫자카드](https://www.acmicpc.net/problem/10815)
 - [1654_랜선자르기](https://www.acmicpc.net/problem/1654)
 - [3079_입국심사](https://www.acmicpc.net/problem/3079)
+
+
+9회차 문제 선정이유 : 구현
+- [5597_과제안내신분?](https://www.acmicpc.net/problem/5597)
+- [1913_달팽이](https://www.acmicpc.net/problem/1913)
+
+
+10회차 문제 선정이유 : 구현 (문자열 관련) --> 나중에 12933_오리, 1913_달팽이 풀어야함!! 나는 구현이 너무 어렵다.. 
+- [20436_ZOAC3](https://www.acmicpc.net/problem/20436)
+- [17413_단어뒤집기2](https://www.acmicpc.net/problem/17413)
