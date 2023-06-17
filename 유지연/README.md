@@ -46,3 +46,7 @@
 10회차 문제 선정이유 : 구현 (문자열 관련) --> 나중에 12933_오리, 1913_달팽이 풀어야함!! 나는 구현이 너무 어렵다.. 
 - [20436_ZOAC3](https://www.acmicpc.net/problem/20436)
 - [17413_단어뒤집기2](https://www.acmicpc.net/problem/17413)
+
+11회차 문제 선정이유 : 부분합, 분할정복 유형 맛보기!
+- [2167_2차원배열의합](https://www.acmicpc.net/problem/2167)
+- [2630_색종이만들기](https://www.acmicpc.net/problem/2630)
