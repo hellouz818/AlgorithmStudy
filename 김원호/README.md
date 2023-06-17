@@ -61,5 +61,5 @@
 11회차 문제 : 백준 2696, 10755, 11085
 
 - [중앙값 구하기](https://www.acmicpc.net/problem/2696)
-- [공항](https://www.acmicpc.net/problem/2696)
+- [공항](https://www.acmicpc.net/problem/10755)
 - [군사이동](https://www.acmicpc.net/problem/11085)
