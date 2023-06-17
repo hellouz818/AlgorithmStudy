@@ -58,8 +58,8 @@
 - [두 배열의 합](https://www.acmicpc.net/problem/2143)
 - [순회강연](https://www.acmicpc.net/problem/2109)
 
-11회차 문제 : 백준 2696, 10755, 11085
+11회차 문제 : 백준 2696, 10775, 11085
 
 - [중앙값 구하기](https://www.acmicpc.net/problem/2696)
-- [공항](https://www.acmicpc.net/problem/10755)
+- [공항](https://www.acmicpc.net/problem/10775)
 - [군사이동](https://www.acmicpc.net/problem/11085)
