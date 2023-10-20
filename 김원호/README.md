@@ -69,7 +69,7 @@
 - [친구 네트워크](https://www.acmicpc.net/problem/4195)
 - [수열과 쿼리 37](https://www.acmicpc.net/problem/18436)
 
-13회차 문제 : 백준 1174, 3980
+13회차 문제 : 백준 1174, 3933
 
 - [줄어드는 수](https://www.acmicpc.net/problem/1174)
-- [선발 명단](https://www.acmicpc.net/problem/3980)
+- [라그랑주의 네 제곱수 정리](https://www.acmicpc.net/problem/3933)
