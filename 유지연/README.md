@@ -47,6 +47,16 @@
 - [20436_ZOAC3](https://www.acmicpc.net/problem/20436)
 - [17413_단어뒤집기2](https://www.acmicpc.net/problem/17413)
 
+
 11회차 문제 선정이유 : 부분합, 분할정복 유형 맛보기!
 - [2167_2차원배열의합](https://www.acmicpc.net/problem/2167)
 - [2630_색종이만들기](https://www.acmicpc.net/problem/2630)
+
+
+12회차 문제 선정이유 : union-find
+- [10775_공항](https://www.acmicpc.net/problem/10775)
+
+
+13회차 문제 선정이유 : 그냥 눈에 보이는거,,
+- [9095_1,2,3더하기](https://www.acmicpc.net/problem/9095)
+- [15886_내선물을받아줘2](https://www.acmicpc.net/problem/15886)
