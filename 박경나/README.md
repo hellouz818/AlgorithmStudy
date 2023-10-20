@@ -60,3 +60,9 @@
 11회차 문제 : 프로그래머스
 이유 : 구현
 - https://school.programmers.co.kr/learn/courses/30/lessons/42583
+
+12회차 문제 : 프로그래머스
+- https://school.programmers.co.kr/learn/courses/30/lessons/17680
+
+13회차 문제 : 프로그래머스
+- https://school.programmers.co.kr/learn/courses/30/lessons/42747
