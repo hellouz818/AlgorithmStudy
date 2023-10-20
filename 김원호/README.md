@@ -63,3 +63,13 @@
 - [중앙값 구하기](https://www.acmicpc.net/problem/2696)
 - [공항](https://www.acmicpc.net/problem/10775)
 - [군사이동](https://www.acmicpc.net/problem/11085)
+
+12회차 문제 : 백준 4195. 18436
+
+- [친구 네트워크](https://www.acmicpc.net/problem/4195)
+- [수열과 쿼리 37](https://www.acmicpc.net/problem/18436)
+
+13회차 문제 : 백준 1174, 3933
+
+- [줄어드는 수](https://www.acmicpc.net/problem/1174)
+- [라그랑주의 네 제곱수 정리](https://www.acmicpc.net/problem/3933)
