@@ -73,3 +73,13 @@
 
 - [줄어드는 수](https://www.acmicpc.net/problem/1174)
 - [라그랑주의 네 제곱수 정리](https://www.acmicpc.net/problem/3933)
+
+14회차 문제 : 백준 14728, 백준 15486
+
+- [벼락치기](https://www.acmicpc.net/problem/14728)
+- [퇴사 2](https://www.acmicpc.net/problem/15486)
+
+15회차 문제 : 백준 11000, 백준 5052
+
+- [강의실배정](https://www.acmicpc.net/problem/11000)
+- [전화번호목록](https://www.acmicpc.net/problem/5052)
